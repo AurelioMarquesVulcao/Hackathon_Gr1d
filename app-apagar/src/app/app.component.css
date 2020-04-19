@@ -1,0 +1,9 @@
+.aplication-app {
+  background: url(../assets/images/backgroud.png) no-repeat center top fixed;
+  height: 768px;
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
