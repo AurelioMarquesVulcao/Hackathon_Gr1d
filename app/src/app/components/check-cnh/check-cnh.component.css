@@ -7,3 +7,9 @@ h1 {
 .espaco {
     margin-top: 50px;
 }
+.btn-primary {
+    background-color: #ec681c;
+}
+.card {
+    margin-top: 10px;
+}

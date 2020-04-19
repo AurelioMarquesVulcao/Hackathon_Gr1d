@@ -4,6 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-check-cnh',
   templateUrl: './check-cnh.component.html',
   styleUrls: ['./check-cnh.component.css']
+  
 })
 export class CheckCNHComponent implements OnInit {
 
