@@ -1,39 +1,13 @@
-# Avanthy's - seguros
+# Avanthy’s
 
-* Cores:
+É uma Plataforma digital e intuitiva, voltada para dar o match perfeito entre corretores de seguros e clientes. O foco é ajudar ao corretor a se transformar digitalmente de forma simples e inovadora, sendo assessorado por assistente virtual a Thy, tendo um espaço que permite desenvolver várias facetas de seu trabalho com alta performance.
 
-    Azul : #1B3459
-
-    Verde : #91B342
-
-    Laranja : #EC681C 
+Para quem procura conforto e praticidade, a Avanthy`s é adaptável e responsiva, permite fazer tudo o que precisa no desktop, smartphone ou tablet.
 
 
+Nosso Protótipo navegável está on line no Marvelapp e o Mvp está no github(código) e no gr1d.herokuapp.com funcionando.
 
-<!-- # App
+Api’s Gr1d utilizadas: 
+* https://finance.gr1d.io/developers/api/infocar-cnh/168c8c64-876e-4031-8c8c-64876eb031d1#documentation 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md). -->
+* https://finance.gr1d.io/developers/api/seguro-saude/01f4409e-0505-441d-b440-9e0505b41dc8#overview
