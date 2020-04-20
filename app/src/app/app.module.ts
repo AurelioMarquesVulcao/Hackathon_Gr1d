@@ -1,5 +1,9 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
+
+import { HttpClientModule, HttpClient } from '@angular/common/http';
+
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -8,6 +12,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { CheckCNHComponent } from './components/check-cnh/check-cnh.component';
 import { CotacaoComponent } from './components/cotacao/cotacao.component';
 import { Cotacao2Component } from './components/cotacao2/cotacao2.component';
+import { from } from 'rxjs';
 
 @NgModule({
   declarations: [
@@ -22,7 +27,7 @@ import { Cotacao2Component } from './components/cotacao2/cotacao2.component';
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [HttpClient, HttpClientModule],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
