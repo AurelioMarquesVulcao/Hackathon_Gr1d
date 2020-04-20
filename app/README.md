@@ -11,3 +11,7 @@ Api’s Gr1d utilizadas:
 * https://finance.gr1d.io/developers/api/infocar-cnh/168c8c64-876e-4031-8c8c-64876eb031d1#documentation 
 
 * https://finance.gr1d.io/developers/api/seguro-saude/01f4409e-0505-441d-b440-9e0505b41dc8#overview
+
+# Guia de apoio da jornada
+
+https://github.com/AurelioMarquesVulcao/Hackathon_Gr1d/blob/master/app/Guia%20de%20Apoio.pdf
